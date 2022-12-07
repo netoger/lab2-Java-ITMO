@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Pokemon1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/учеба/Pokemon.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/учеба/программирование Java/lab 2 java/lab2/Pokemon.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
